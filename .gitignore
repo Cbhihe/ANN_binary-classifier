@@ -1,0 +1,6 @@
+*
+
+!/*.ipynb
+!/*.md
+!/.python-version
+!/.gitignore
