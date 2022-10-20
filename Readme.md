@@ -1,6 +1,7 @@
 ### Problem statement
 
-Toy example of a simple binary classification problem:
+Python code imple binary classification:
 - randomly generated data set
-- logistic regression loss
-- ANN - forward and back-propagation with gradient descent and optional regularization
+- hyperbolic tangent (tanh)  activation function (adequate for binary classification)
+- log-loss
+- NN - forward and back-propagation with gradient descent and optional regularization
